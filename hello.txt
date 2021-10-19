@@ -5,4 +5,5 @@ This is it, I'm here forever fr this time 🥳
 
 Hey, remeber me? I'm Vivek
 
-72727272727
+I'm learning use git and github from Dan from "The Coding Train"
+
